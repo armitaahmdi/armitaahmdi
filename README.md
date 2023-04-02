@@ -15,7 +15,7 @@ I am a Front-end Developer and software engineer from Iran :woman_technologist:
 :desktop_computer: I'm currently working on Reactjs. <br />
 :seedling: I’m currently learning TypeScript and I've plan to learn NextJS. <br />
 
------------
+----------
 
 ### :receipt: Tech Stack
 
